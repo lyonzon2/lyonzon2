@@ -43,5 +43,4 @@ Operating Systems
 <div> <img src="https://img.shields.io/badge/-CCNA_Networking_and_Switching-0077B5?&style=for-the-badge&logo=Cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-Cybersecurity_for_Business-Successful?&style=for-the-badge&logo=Coursera&logoColor=white" /> </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/lyonzon2/ISSL">Integrated Security Solutions Lab (ISSL)</a>
