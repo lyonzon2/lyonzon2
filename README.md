@@ -124,8 +124,8 @@ I started my journey in IT and networking, establishing a strong technical found
 - Conducted a comprehensive assessment of a corporate network, including vulnerability scanning, exploitation, and risk mitigation recommendations.
 - Tools Used: [Burp Suite](https://portswigger.net/burp), [Nmap](https://nmap.org/), [Metasploit](https://www.metasploit.com/).
 
-**2. Network Monitoring Dashboard:**
-- Created a dashboard for real-time monitoring of network traffic using [Wireshark](https://www.wireshark.org/) and [Splunk](https://www.splunk.com/).
+**2. [Integrated Security Solutions Lab (ISSL)](https://github.com/lyonzon2/ISSL):**
+- Developed and implemented integrated security solutions in a controlled lab environment, focusing on securing various network services and conducting vulnerability assessments.
 
 **3. Malware Analysis Lab Setup:**
 - Built a controlled lab environment to analyze malware using [FlareVM](https://github.com/FireEye/flare-vm) and [REMnux](https://remnux.org/).
@@ -134,9 +134,6 @@ I started my journey in IT and networking, establishing a strong technical found
 
 ## 🧠 **Certifications**
 
-- **CISSP** (Certified Information Systems Security Professional) - In Progress
-- **CEH** (Certified Ethical Hacker) - In Progress
-- **CompTIA Security+** - Completed
 - **CCNA** (Cisco Certified Network Associate) - Completed
 - **CCNA Networking and Switching** - Completed
 - **Cybersecurity for Business** (University of Colorado System via Coursera) - Completed
@@ -154,5 +151,9 @@ Feel free to connect with me via my [LinkedIn](https://www.linkedin.com/in/moham
 - [SANS Institute](https://www.sans.org/): Cybersecurity training and certifications.
 
 ---
+[![](https://visitcount.itsvg.in/api?id=lyonzon2&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ### 🖤 **Follow me on GitHub for more updates!**
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mbelcadi7)
