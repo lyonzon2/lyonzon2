@@ -30,7 +30,6 @@ Starting in IT and networking, I built a solid technical foundation, which then 
 <!-- Endpoint Tools -->
 <h3>Endpoint Tools</h3>
 <div>
-  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
