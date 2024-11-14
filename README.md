@@ -1,8 +1,7 @@
 # Hello, I'm Mohamed
 <a href="https://www.linkedin.com/in/mohamed-belcadi-0a488b263"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to creating creative solutions.
-
+I am a recent graduate with a strong passion for technology and a commitment to developing creative, cost-effective, and easy-to-implement solutions.
 ## Objective
 
 Starting in IT and networking, I built a solid technical foundation, which then led me to explore the world of penetration testing. This experience deepened my understanding of security vulnerabilities and attack strategies, and now, I’m ready to transition into a Security Operations Center (SOC) as a Tier 1 Analyst. I'm excited to apply my hands-on experience in identifying and analyzing threats to actively defend and support cybersecurity operations.
