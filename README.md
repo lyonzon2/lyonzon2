@@ -132,6 +132,17 @@ I started my journey in IT and networking, establishing a strong technical found
 
 ---
 
+## 🧠 **Certifications**
+
+- **CISSP** (Certified Information Systems Security Professional) - In Progress
+- **CEH** (Certified Ethical Hacker) - In Progress
+- **CompTIA Security+** - Completed
+- **CCNA** (Cisco Certified Network Associate) - Completed
+- **CCNA Networking and Switching** - Completed
+- **Cybersecurity for Business** (University of Colorado System via Coursera) - Completed
+
+---
+
 ## 📫 **Get in Touch**
 Feel free to connect with me via my [LinkedIn](https://www.linkedin.com/in/mohamed-belcadi-0a488b263) for collaboration, consulting, or opportunities in the cybersecurity domain!
 
