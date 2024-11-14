@@ -1,7 +1,7 @@
 # Hello, I'm Mohamed
 <a href="https://www.linkedin.com/in/mohamed-belcadi-0a488b263"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a profound interest in technology and a dedication to creating creative solutions.
 
 ## Objective
 
