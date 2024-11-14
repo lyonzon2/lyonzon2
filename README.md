@@ -15,7 +15,7 @@ Starting in IT and networking, I built a solid technical foundation, which then 
 | Malware Analysis with FlareVM and REMnux     | |
 | Incident Response Planning and Execution      | |
 | Case Management with TheHive                  | |
-| Firewall Management  | |
+| Firewall Implimentation and Management  | |
 | System Hardening  | |
 | Network Topology Design  | |
 | Network Security  | |
