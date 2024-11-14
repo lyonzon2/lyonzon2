@@ -8,7 +8,6 @@ I am a recent graduate with a profound interest in technology and a dedication t
 Starting in IT and networking, I built a solid technical foundation, which then led me to explore the world of penetration testing. This experience deepened my understanding of security vulnerabilities and attack strategies, and now, I’m ready to transition into a Security Operations Center (SOC) as a Tier 1 Analyst. I'm excited to apply my hands-on experience in identifying and analyzing threats to actively defend and support cybersecurity operations.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
