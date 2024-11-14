@@ -106,7 +106,6 @@ Starting in IT and networking, I built a solid technical foundation, which then 
   <img src="https://img.shields.io/badge/-Nginx-009639?&style=for-the-badge&logo=Nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-8CC84B?&style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-ASP.NET-5C2D91?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
