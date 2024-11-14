@@ -12,12 +12,14 @@ Starting in IT and networking, I built a solid technical foundation, which then 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | |
 | Network Traffic Monitoring and Attack Detection | |
-| dynamic malware analysis         | |
+| Malware Analysis with FlareVM and REMnux     | |
 | Incident Response Planning and Execution      | |
 | Case Management with TheHive                  | |
-| firewall management  | |
-| system hardening  | |
-| network security  | |
+| Firewall Management  | |
+| System Hardening  | |
+| Network Topology Design  | |
+| Network Security  | |
+| Penetration Testing  | |
 | Scripting and Automation  | |
 
 ## Tools
