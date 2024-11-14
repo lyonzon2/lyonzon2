@@ -88,8 +88,9 @@ Starting in IT and networking, I built a solid technical foundation, which then 
 <h3>Adversary Emulation</h3>
 <div>
   <img src="https://img.shields.io/badge/MITRE%20Caldera-2A2A2A?style=for-the-badge&logo=mitre&logoColor=white" alt="MITRE Caldera" />
-  <img src="https://img.shields.io/badge/Powershell-Empire-2C2C2C?style=for-the-badge&logo=empire&logoColor=white" alt="Powershell-Empire" />
+  <img src="https://img.shields.io/badge/PowerShell%20Empire-2C2C2C?style=for-the-badge&logo=empire&logoColor=white" alt="PowerShell Empire" />
 </div>
+
 
 <!-- CCNA Security Concepts -->
 <h3>CCNA Security Concepts</h3>
