@@ -91,58 +91,60 @@ I started my journey in IT and networking, establishing a strong technical found
 
 
 
-                      Cybersecurity Skills Proficiency
-             __________________________________________________
-            |                                                  |
-            |    SIEM Implementation & Log Analysis            |
-            |    Proficiency: Intermediate                      |
-            |    [■■■■■■■■■■■■■■■■■■■■■■■■■■■----------]         |
-            |__________________________________________________|
-            |                                                  |
-            |    Network Traffic Analysis & Threat Detection    |
-            |    Proficiency: Advanced                         |
-            |    [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]      |
-            |__________________________________________________|
-            |                                                  |
-            |    Endpoint Detection & Response (EDR)            |
-            |    Proficiency: Beginner                         |
-            |    [■■■■■■■■■■--------------------------]         |
-            |__________________________________________________|
-            |                                                  |
-            |    Digital Forensics & Incident Analysis          |
-            |    Proficiency: Beginner                         |
-            |    [■■■■■■■■■■--------------------------]         |
-            |__________________________________________________|
-            |                                                  |
-            |    Firewall Management & Intrusion Prevention     |
-            |    Proficiency: Advanced                         |
-            |    [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]      |
-            |__________________________________________________|
-            |                                                  |
-            |    Vulnerability Scanning & Configuration         |
-            |    Hardening Proficiency: Intermediate            |
-            |    [■■■■■■■■■■■■■■■■■■■■■----------]              |
-            |__________________________________________________|
-            |                                                  |
-            |    Threat Hunting                                 |
-            |    Proficiency: Intermediate                      |
-            |    [■■■■■■■■■■■■■■■■■----------------]             |
-            |__________________________________________________|
-            |                                                  |
-            |    Scripting & Security Automation (Python, Bash)  |
-            |    Proficiency: Intermediate                      |
-            |    [■■■■■■■■■■■■■■■■■----------------]             |
-            |__________________________________________________|
-            |                                                  |
-            |    Secure Network Design & IAM Implementation     |
-            |    Proficiency: Intermediate                      |
-            |    [■■■■■■■■■■■■■■■■■----------------]             |
-            |__________________________________________________|
-            |                                                  |
-            |    Compliance & Risk Assessment                   |
-            |    Proficiency: Beginner                         |
-            |    [■■■■■■■■■■--------------------------]         |
-            |__________________________________________________|
+                Cybersecurity Skills Proficiency Dashboard
+ _____________________________________________________________
+|                                                             |
+|   SIEM Implementation & Log Analysis                        |
+|   Proficiency: Intermediate                                  |
+|   [■■■■■■■■■■■■■■■■■■■■■■■■■■■----------]  70%               |
+|_____________________________________________________________|
+|                                                             |
+|   Network Traffic Analysis & Threat Detection                |
+|   Proficiency: Advanced                                     |
+|   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  100%           |
+|_____________________________________________________________|
+|                                                             |
+|   Endpoint Detection & Response (EDR)                        |
+|   Proficiency: Beginner                                     |
+|   [■■■■■■■■■■--------------------------]  30%               |
+|_____________________________________________________________|
+|                                                             |
+|   Digital Forensics & Incident Analysis                      |
+|   Proficiency: Beginner                                     |
+|   [■■■■■■■■■■--------------------------]  30%               |
+|_____________________________________________________________|
+|                                                             |
+|   Firewall Management & Intrusion Prevention                 |
+|   Proficiency: Advanced                                     |
+|   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  100%           |
+|_____________________________________________________________|
+|                                                             |
+|   Vulnerability Scanning & Configuration Hardening           |
+|   Proficiency: Intermediate                                  |
+|   [■■■■■■■■■■■■■■■■■■■■■----------]  60%                    |
+|_____________________________________________________________|
+|                                                             |
+|   Threat Hunting                                             |
+|   Proficiency: Intermediate                                  |
+|   [■■■■■■■■■■■■■■■■■----------------]  50%                   |
+|_____________________________________________________________|
+|                                                             |
+|   Scripting & Security Automation (Python, Bash)             |
+|   Proficiency: Intermediate                                  |
+|   [■■■■■■■■■■■■■■■■■----------------]  50%                   |
+|_____________________________________________________________|
+|                                                             |
+|   Secure Network Design & IAM Implementation                 |
+|   Proficiency: Intermediate                                  |
+|   [■■■■■■■■■■■■■■■■■----------------]  50%                   |
+|_____________________________________________________________|
+|                                                             |
+|   Compliance & Risk Assessment                               |
+|   Proficiency: Beginner                                     |
+|   [■■■■■■■■■■--------------------------]  30%                |
+|_____________________________________________________________|
+
+
 
 
 
