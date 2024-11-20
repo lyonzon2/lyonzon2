@@ -12,6 +12,20 @@ I started my journey in IT and networking, establishing a strong technical found
 
 ---
 
+## 🛠️ **Experienced Roles**
+
+**1. Web SaaS in Cloud Penetration Testing:**
+- Conducted penetration testing for web-based SaaS applications hosted in the cloud, identifying vulnerabilities and misconfigurations that could expose sensitive data or allow unauthorized access.
+- Performed threat modeling, vulnerability assessments, and attack simulations to evaluate the security posture of cloud-hosted applications.
+- Provided remediation guidance and collaborated with DevOps teams to implement secure configurations, improving overall security resilience.
+
+**2. Home Lab Web Server Hosting for Honeypot Objective:**
+- Set up a home lab environment to host a public-facing web server with a **default login** for a honeypot objective, designed to attract malicious actors.
+- Monitored traffic and activity for signs of exploitation, leveraging **Intrusion Detection Systems (IDS)** to detect Command-and-Control (C2) communication with **cryptocurrency wallets**.
+- Responded to a **Cryptominer** installation by a threat actor, using incident response procedures to isolate the compromised server, gather forensic evidence, and remove the malware.
+- Analyzed the attack vector, identified the method of exploitation, and worked on improving security measures to prevent future attacks.
+
+
 ## Blue Team Skills & Proficiency
 
 | **Skill**                                          | **Proficiency** |
