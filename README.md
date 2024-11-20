@@ -2,31 +2,128 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-belcadi-0a488b263)
 
-A recent graduate passionate about technology and committed to developing creative, cost-effective, and easy-to-implement solutions. I'm currently transitioning into the cybersecurity field, focusing on Security Operations and Penetration Testing. 
+A recent graduate passionate about technology and committed to developing creative, cost-effective, and easy-to-implement solutions. I'm currently transitioning into the cybersecurity field, focusing on Security Operations. 
 
 ---
 
 ## 🎯 Objective
 
-I started my journey in IT and networking, establishing a strong technical foundation. This led me to explore penetration testing, where I deepened my understanding of security vulnerabilities and attack strategies. Now, I aim to transition into a **Security Operations Center (SOC)** as a **Tier 1 Analyst**, ready to apply my hands-on experience in threat detection and analysis.
+I started my journey in IT and networking, establishing a strong technical foundation. This led me to explore penetration testing, where I deepened my understanding of security vulnerabilities and attack strategies. Now, I aim to transition into a **Security Operations Center (SOC)** as a **Tier 1 Analyst**, ready to apply my hands-on experience in threat detection and analysis, incident response and digital forensics(DFIR).
 
 ---
 
-## 🛠️ Skills
+## Skills & Proficiency
 
 | **Skill**                                          | **Proficiency** |
 |----------------------------------------------------|-----------------|
 | SIEM Implementation & Log Analysis                 | Intermediate    |
-| Network Traffic Monitoring & Attack Detection      | Advanced        |
-| Malware Analysis with FlareVM & REMnux             | Intermediate    |
-| Incident Response & Case Management (TheHive)      | Intermediate    |
-| Firewall Implementation & Management               | Intermediate    |
-| System Hardening & Security Configurations         | Advanced        |
-| Penetration Testing (Web, Network, and App)        | Intermediate    |
-| Scripting & Automation (Python, Bash)              | Advanced        |
-| Network Topology Design & Security                 | Intermediate    |
+| Network Traffic Analysis & Threat Detection        | Advanced        |
+| Endpoint Detection & Response (EDR)                | Beginner        |
+| Digital Forensics & Incident Analysis              | Beginner        |
+| Firewall Management & Intrusion Prevention         | Advanced        |
+| Vulnerability Scanning & Configuration Hardening   | Intermediate    |
+| Threat Hunting                                     | Intermediate    |
+| Scripting & Security Automation (Python, Bash)     | Intermediate    |
+| Secure Network Design & IAM Implementation         | Intermediate    |
+| Compliance & Risk Assessment                       | Beginner        |
 
 ---
+
+## Role Proficiency (%)
+
+| **Role**                    | **Proficiency (%)** |
+|-----------------------------|---------------------|
+| SOC Analyst                 | 30%                |
+| Incident Responder          | 60%                |
+| Threat Hunter               | 10%                |
+| Forensic Analyst            | 40%                |
+| Malware Analyst             | 10%                |
+| Network Security Engineer   | 65%                |
+| Compliance Analyst          | 30%                |
+| pentester                   | 60%                |
+
+---
+## Red Team Skills & Proficiency
+
+| **Skill**                                          | **Proficiency** |
+|----------------------------------------------------|-----------------|
+| Social Engineering Techniques                      | Beginner        |
+| Red Team Operations & Adversary Simulation         | Beginner        |
+| Malware Development                                | Beginner        |
+| Post-Exploitation Techniques                       | Beginner        |
+| Evasion Techniques (AV/IDS/IPS Bypass)             | Beginner        |
+| C2 Infrastructure Setup & Management               | Advanced        |
+
+
+---
+
+## Penetration Tester Skills & Proficiency
+
+| **Skill**                                          | **Proficiency** |
+|----------------------------------------------------|-----------------|
+| Network Penetration Testing                        | Advanced        |
+| Web Application Security Testing                   | Intermediate    |
+| Exploit Development & Buffer Overflow Techniques   | Intermediate    |
+| Social Engineering & Phishing                      | Beginner        |
+| Vulnerability Assessment & Scanning                | Advanced        |
+| Post-Exploitation & Lateral Movement               | Intermediate    |
+| Vulnerability Research & Exploit Development       | Beginner        |
+| Wireless Network Penetration                       | Intermediate    |
+| Reporting & Documentation                          | Advanced        |
+
+## Cybersecurity & IT Concepts
+
+| **Concept**                                        | **Proficiency** |
+|----------------------------------------------------|-----------------|
+| Cryptography (Encryption, Hashing, RSA, AES)       | Intermediate    |
+| Networking (TCP/IP, DNS, HTTP/S, VPNs, Proxies)    | Advanced        |
+| Operating Systems (Linux, Windows)                 | Advanced        |
+| Network Protocols (HTTP, DNS, SSH, FTP, ICMP)      | Advanced        |
+| Security Protocols (TLS, SSL, IPSec, Kerberos,ldap)| Intermediate    |
+| Firewalls & Intrusion Detection Systems (IDS/IPS)  | Advanced        |
+| Authentication & Authorization (OAuth, SSO)        | Beginner        |
+| Programming (Python, C, Bash, PowerShell)          | Intermediate    |
+| Virtualization & Containerization (Docker, VMs)    | Beginner        |
+| Database Security (SQL Injection, NoSQL, Encryption)| Intermediate   |
+| Malware Analysis (Static & Dynamic Analysis)       | Beginner        |
+| Vulnerability Management (CVSS, Patch Management)  | Intermediate    |
+| Risk Management & Compliance (NIST, ISO 27001)     | Beginner        |
+
+                        Cybersecurity Skills Proficiency
+
+                             (Radar Chart Representation)
+                            
+                             |-------------------------------------------------|
+                             |                   SIEM                          |
+                             |       (Intermediate)          [■■■■■■■■■■■-----]  |
+                             |-------------------------------------------------|
+                             |                  Network Traffic                  |
+                             |       (Advanced)            [■■■■■■■■■■■■■■■■■]  |
+                             |-------------------------------------------------|
+                             |                  Endpoint Detection & Response    |
+                             |       (Beginner)           [■■■■■■■■----------]  |
+                             |-------------------------------------------------|
+                             |                  Digital Forensics                |
+                             |       (Beginner)           [■■■■■■■■----------]  |
+                             |-------------------------------------------------|
+                             |                  Firewalls & Intrusion Prevention |
+                             |       (Advanced)           [■■■■■■■■■■■■■■■■■]  |
+                             |-------------------------------------------------|
+                             |                  Vulnerability Scanning           |
+                             |       (Intermediate)       [■■■■■■■■■■■-----]  |
+                             |-------------------------------------------------|
+                             |                  Threat Hunting                  |
+                             |       (Intermediate)       [■■■■■■■■■■----]    |
+                             |-------------------------------------------------|
+                             |                  Scripting & Security Automation  |
+                             |       (Intermediate)       [■■■■■■■■■■----]    |
+                             |-------------------------------------------------|
+                             |                  Secure Network Design & IAM     |
+                             |       (Intermediate)       [■■■■■■■■■■----]    |
+                             |-------------------------------------------------|
+                             |                  Compliance & Risk Assessment     |
+                             |       (Beginner)           [■■■■■■■■----------]  |
+                             |-------------------------------------------------|
 
 ## 🧰 Tools
 
