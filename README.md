@@ -12,48 +12,32 @@ I started my journey in IT and networking, establishing a strong technical found
 
 ---
 
-## Skills & Proficiency
+## Blue Team Skills & Proficiency
 
 | **Skill**                                          | **Proficiency** |
 |----------------------------------------------------|-----------------|
 | SIEM Implementation & Log Analysis                 | Intermediate    |
 | Network Traffic Analysis & Threat Detection        | Advanced        |
-| Endpoint Detection & Response (EDR)                | Beginner        |
 | Digital Forensics & Incident Analysis              | Beginner        |
-| Firewall Management & Intrusion Prevention         | Advanced        |
-| Vulnerability Scanning & Configuration Hardening   | Intermediate    |
-| Threat Hunting                                     | Intermediate    |
+| Vulnerability Management                           | Intermediate    |
+| Networks & systems Hardening                       | Intermediate    |
+| Malware Analysis (Static & Dynamic Analysis)       | Beginner        |
+| Threat Hunting                                     | Beginner        |
 | Scripting & Security Automation (Python, Bash)     | Intermediate    |
-| Secure Network Design & IAM Implementation         | Intermediate    |
-| Compliance & Risk Assessment                       | Beginner        |
-
----
-
-## Role Proficiency (%)
-
-| **Role**                    | **Proficiency (%)** |
-|-----------------------------|---------------------|
-| SOC Analyst                 | 30%                |
-| Incident Responder          | 60%                |
-| Threat Hunter               | 10%                |
-| Forensic Analyst            | 40%                |
-| Malware Analyst             | 10%                |
-| Network Security Engineer   | 65%                |
-| Compliance Analyst          | 30%                |
-| pentester                   | 60%                |
+| Secure Network Design                              | Intermediate    |
+| Risk Management & Compliance (NIST, ISO 27001)     | Beginner        |
 
 ---
 ## Red Team Skills & Proficiency
 
 | **Skill**                                          | **Proficiency** |
 |----------------------------------------------------|-----------------|
-| Social Engineering Techniques                      | Beginner        |
+| Social Engineering Techniques                      | Intermediate    |
 | Red Team Operations & Adversary Simulation         | Beginner        |
 | Malware Development                                | Beginner        |
 | Post-Exploitation Techniques                       | Beginner        |
 | Evasion Techniques (AV/IDS/IPS Bypass)             | Beginner        |
 | C2 Infrastructure Setup & Management               | Advanced        |
-
 
 ---
 
@@ -63,8 +47,6 @@ I started my journey in IT and networking, establishing a strong technical found
 |----------------------------------------------------|-----------------|
 | Network Penetration Testing                        | Advanced        |
 | Web Application Security Testing                   | Intermediate    |
-| Exploit Development & Buffer Overflow Techniques   | Intermediate    |
-| Social Engineering & Phishing                      | Beginner        |
 | Vulnerability Assessment & Scanning                | Advanced        |
 | Post-Exploitation & Lateral Movement               | Intermediate    |
 | Vulnerability Research & Exploit Development       | Beginner        |
@@ -82,70 +64,8 @@ I started my journey in IT and networking, establishing a strong technical found
 | Security Protocols (TLS, SSL, IPSec, Kerberos,ldap)| Intermediate    |
 | Firewalls & Intrusion Detection Systems (IDS/IPS)  | Advanced        |
 | Authentication & Authorization (OAuth, SSO)        | Beginner        |
-| Programming (Python, C, Bash, PowerShell)          | Intermediate    |
-| Virtualization & Containerization (Docker, VMs)    | Beginner        |
-| Database Security (SQL Injection, NoSQL, Encryption)| Intermediate   |
-| Malware Analysis (Static & Dynamic Analysis)       | Beginner        |
-| Vulnerability Management (CVSS, Patch Management)  | Intermediate    |
-| Risk Management & Compliance (NIST, ISO 27001)     | Beginner        |
-
-
-
-                Cybersecurity Skills Proficiency Dashboard
- _____________________________________________________________
-|                                                             |
-|   SIEM Implementation & Log Analysis                        |
-|   Proficiency: Intermediate                                  |
-|   [■■■■■■■■■■■■■■■■■■■■■■■■■■■----------]  70%               |
-|_____________________________________________________________|
-|                                                             |
-|   Network Traffic Analysis & Threat Detection                |
-|   Proficiency: Advanced                                     |
-|   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  100%           |
-|_____________________________________________________________|
-|                                                             |
-|   Endpoint Detection & Response (EDR)                        |
-|   Proficiency: Beginner                                     |
-|   [■■■■■■■■■■--------------------------]  30%               |
-|_____________________________________________________________|
-|                                                             |
-|   Digital Forensics & Incident Analysis                      |
-|   Proficiency: Beginner                                     |
-|   [■■■■■■■■■■--------------------------]  30%               |
-|_____________________________________________________________|
-|                                                             |
-|   Firewall Management & Intrusion Prevention                 |
-|   Proficiency: Advanced                                     |
-|   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  100%           |
-|_____________________________________________________________|
-|                                                             |
-|   Vulnerability Scanning & Configuration Hardening           |
-|   Proficiency: Intermediate                                  |
-|   [■■■■■■■■■■■■■■■■■■■■■----------]  60%                    |
-|_____________________________________________________________|
-|                                                             |
-|   Threat Hunting                                             |
-|   Proficiency: Intermediate                                  |
-|   [■■■■■■■■■■■■■■■■■----------------]  50%                   |
-|_____________________________________________________________|
-|                                                             |
-|   Scripting & Security Automation (Python, Bash)             |
-|   Proficiency: Intermediate                                  |
-|   [■■■■■■■■■■■■■■■■■----------------]  50%                   |
-|_____________________________________________________________|
-|                                                             |
-|   Secure Network Design & IAM Implementation                 |
-|   Proficiency: Intermediate                                  |
-|   [■■■■■■■■■■■■■■■■■----------------]  50%                   |
-|_____________________________________________________________|
-|                                                             |
-|   Compliance & Risk Assessment                               |
-|   Proficiency: Beginner                                     |
-|   [■■■■■■■■■■--------------------------]  30%                |
-|_____________________________________________________________|
-
-
-
+| Virtualization & Containerization (Docker, VMs)    | Advanced        |
+| Database Security (SQL Injection, NoSQL, backup)   | Intermediate    |
 
 
 ## 🧰 Tools
@@ -179,14 +99,14 @@ I started my journey in IT and networking, establishing a strong technical found
 
 ---
 
-## 🔐 **Security Concepts & Technologies**
-
-### **CCNA Security Concepts**
+### **Network Security Concepts**
 - **Port Security:** Prevents unauthorized access on network ports.
 - **VLANs:** Segmentation of networks to enhance security and performance.
 - **DHCP Snooping:** Protects the network from rogue DHCP servers.
 - **Access Control Lists (ACLs):** Filters traffic to control access.
 - **Fail2Ban:** Anti-brute force tool that blocks malicious IPs.
+- **Port Knocking:** A method of securing a network by requiring a sequence of "knocks" (specific port access attempts) before granting access to a firewall-protected service.
+
 
 ### **Network Technologies**
 - [NAT (Network Address Translation)](https://en.wikipedia.org/wiki/Network_address_translation): Translates private IPs to public IPs.
@@ -204,7 +124,12 @@ I started my journey in IT and networking, establishing a strong technical found
 
 - [Snort](https://www.snort.org/): Open-source IDS for detecting network threats.
 - [Suricata](https://suricata-ids.org/): High-performance IDS/IPS.
+  
+--- 
+
+## 🧩 **Host-Based Intrusion Detection System (HIDS)**
 - [AIDE (Advanced Intrusion Detection Environment)](https://aide.github.io/): File integrity checker for detecting unauthorized file changes.
+- [OSSEC](https://www.ossec.net/): Provides log analysis, file integrity monitoring, rootkit detection, and real-time alerting for comprehensive system security monitoring.
 
 ---
 
