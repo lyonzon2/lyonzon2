@@ -89,41 +89,62 @@ I started my journey in IT and networking, establishing a strong technical found
 | Vulnerability Management (CVSS, Patch Management)  | Intermediate    |
 | Risk Management & Compliance (NIST, ISO 27001)     | Beginner        |
 
-                        Cybersecurity Skills Proficiency
 
-                             (Radar Chart Representation)
-                            
-                             |-------------------------------------------------|
-                             |                   SIEM                          |
-                             |       (Intermediate)          [■■■■■■■■■■■-----]  |
-                             |-------------------------------------------------|
-                             |                  Network Traffic                  |
-                             |       (Advanced)            [■■■■■■■■■■■■■■■■■]  |
-                             |-------------------------------------------------|
-                             |                  Endpoint Detection & Response    |
-                             |       (Beginner)           [■■■■■■■■----------]  |
-                             |-------------------------------------------------|
-                             |                  Digital Forensics                |
-                             |       (Beginner)           [■■■■■■■■----------]  |
-                             |-------------------------------------------------|
-                             |                  Firewalls & Intrusion Prevention |
-                             |       (Advanced)           [■■■■■■■■■■■■■■■■■]  |
-                             |-------------------------------------------------|
-                             |                  Vulnerability Scanning           |
-                             |       (Intermediate)       [■■■■■■■■■■■-----]  |
-                             |-------------------------------------------------|
-                             |                  Threat Hunting                  |
-                             |       (Intermediate)       [■■■■■■■■■■----]    |
-                             |-------------------------------------------------|
-                             |                  Scripting & Security Automation  |
-                             |       (Intermediate)       [■■■■■■■■■■----]    |
-                             |-------------------------------------------------|
-                             |                  Secure Network Design & IAM     |
-                             |       (Intermediate)       [■■■■■■■■■■----]    |
-                             |-------------------------------------------------|
-                             |                  Compliance & Risk Assessment     |
-                             |       (Beginner)           [■■■■■■■■----------]  |
-                             |-------------------------------------------------|
+
+                      Cybersecurity Skills Proficiency
+             __________________________________________________
+            |                                                  |
+            |    SIEM Implementation & Log Analysis            |
+            |    Proficiency: Intermediate                      |
+            |    [■■■■■■■■■■■■■■■■■■■■■■■■■■■----------]         |
+            |__________________________________________________|
+            |                                                  |
+            |    Network Traffic Analysis & Threat Detection    |
+            |    Proficiency: Advanced                         |
+            |    [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]      |
+            |__________________________________________________|
+            |                                                  |
+            |    Endpoint Detection & Response (EDR)            |
+            |    Proficiency: Beginner                         |
+            |    [■■■■■■■■■■--------------------------]         |
+            |__________________________________________________|
+            |                                                  |
+            |    Digital Forensics & Incident Analysis          |
+            |    Proficiency: Beginner                         |
+            |    [■■■■■■■■■■--------------------------]         |
+            |__________________________________________________|
+            |                                                  |
+            |    Firewall Management & Intrusion Prevention     |
+            |    Proficiency: Advanced                         |
+            |    [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]      |
+            |__________________________________________________|
+            |                                                  |
+            |    Vulnerability Scanning & Configuration         |
+            |    Hardening Proficiency: Intermediate            |
+            |    [■■■■■■■■■■■■■■■■■■■■■----------]              |
+            |__________________________________________________|
+            |                                                  |
+            |    Threat Hunting                                 |
+            |    Proficiency: Intermediate                      |
+            |    [■■■■■■■■■■■■■■■■■----------------]             |
+            |__________________________________________________|
+            |                                                  |
+            |    Scripting & Security Automation (Python, Bash)  |
+            |    Proficiency: Intermediate                      |
+            |    [■■■■■■■■■■■■■■■■■----------------]             |
+            |__________________________________________________|
+            |                                                  |
+            |    Secure Network Design & IAM Implementation     |
+            |    Proficiency: Intermediate                      |
+            |    [■■■■■■■■■■■■■■■■■----------------]             |
+            |__________________________________________________|
+            |                                                  |
+            |    Compliance & Risk Assessment                   |
+            |    Proficiency: Beginner                         |
+            |    [■■■■■■■■■■--------------------------]         |
+            |__________________________________________________|
+
+
 
 ## 🧰 Tools
 
