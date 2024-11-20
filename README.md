@@ -165,15 +165,12 @@ I started my journey in IT and networking, establishing a strong technical found
 
 ## 🌱 **Ongoing Projects**
 
-**1. Penetration Testing Report:**
-- Conducted a comprehensive assessment of a corporate network, including vulnerability scanning, exploitation, and risk mitigation recommendations.
-- Tools Used: [Burp Suite](https://portswigger.net/burp), [Nmap](https://nmap.org/), [Metasploit](https://www.metasploit.com/).
-
-**2. [Integrated Security Solutions Lab (ISSL)](https://github.com/lyonzon2/ISSL):**
+**1. [Integrated Security Solutions Lab (ISSL)](https://github.com/lyonzon2/ISSL):**
 - Developed and implemented integrated security solutions in a controlled lab environment, focusing on securing various network services and conducting vulnerability assessments.
 
-**3. Malware Analysis Lab Setup:**
-- Built a controlled lab environment to analyze malware using [FlareVM](https://github.com/FireEye/flare-vm) and [REMnux](https://remnux.org/).
+**2. Malware Analysis Lab Setup:**
+- Built a controlled lab environment to analyze malware using [FlareVM](https://github.com/FireEye/flare-vm) and [REMnux](https://remnux.org/), complemented by **Capa Sandbox** for automated malware analysis.
+- **Capa Sandbox** was integrated to analyze malware behavior, identifying capabilities such as file access, network activity, and system manipulation, enhancing dynamic analysis capabilities.
 
 ---
 
@@ -182,6 +179,7 @@ I started my journey in IT and networking, establishing a strong technical found
 - **CCNA** (Cisco Certified Network Associate) - Completed
 - **CCNA Networking and Switching** - Completed
 - **Cybersecurity for Business** (University of Colorado System via Coursera) - Completed
+- **EJPT2** (eLearnSecurity Junior Penetration Tester v2) - Completed
 
 ---
 
